@@ -1,4 +1,4 @@
-#getting image
+#getting  base image
 FROM ubuntu
 
 MAINTAINER sachin <sachin.bsc01@gmail.com>
